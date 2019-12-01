@@ -1,0 +1,12 @@
+C:\Users\cintronm\Desktop\VerbotSDK\Verbot4Library\bin\Debug\Verbot4Library.dll
+C:\Users\cintronm\Desktop\VerbotSDK\Verbot4Library\bin\Debug\Verbot4Library.pdb
+C:\Users\cintronm\Desktop\VerbotSDK\Verbot4Library\obj\Debug\Verbot4Library.csprojAssemblyReference.cache
+C:\Users\cintronm\Desktop\VerbotSDK\Verbot4Library\obj\Debug\Verbot4Library.csproj.CoreCompileInputs.cache
+C:\Users\cintronm\Desktop\VerbotSDK\Verbot4Library\obj\Debug\Verbot4Library.dll
+C:\Users\cintronm\Desktop\VerbotSDK\Verbot4Library\obj\Debug\Verbot4Library.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Verbot4Library\bin\Debug\Verbot4Library.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Verbot4Library\bin\Debug\Verbot4Library.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Verbot4Library\obj\Debug\Verbot4Library.csprojAssemblyReference.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Verbot4Library\obj\Debug\Verbot4Library.csproj.CoreCompileInputs.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Verbot4Library\obj\Debug\Verbot4Library.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Verbot4Library\obj\Debug\Verbot4Library.pdb

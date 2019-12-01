@@ -1,0 +1,51 @@
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\bin\Debug\BingSpeechTest1.exe.config
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\bin\Debug\BingSpeechTest1.exe
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\bin\Debug\BingSpeechTest1.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\bin\Debug\SpeechClient.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\MainWindow.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\App.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1_MarkupCompile.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1_MarkupCompile.lref
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\MainWindow.baml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.g.resources
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.Properties.Resources.resources
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.csproj.GenerateResource.Cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.csproj.CoreCompileInputs.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.exe
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.csprojAssemblyReference.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.csproj.CopyComplete
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\bin\Debug\BingSpeechTest1.exe.config
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\bin\Debug\BingSpeechTest1.exe
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\bin\Debug\BingSpeechTest1.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\bin\Debug\SpeechClient.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.csprojAssemblyReference.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\MainWindow.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\App.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1_MarkupCompile.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1_MarkupCompile.lref
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\MainWindow.baml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.g.resources
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.Properties.Resources.resources
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.csproj.GenerateResource.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.csproj.CoreCompileInputs.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.csproj.CopyComplete
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.exe
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\BingSpeechTest1\BingSpeechTest1\obj\Debug\BingSpeechTest1.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\bin\Debug\BingSpeechTest1.exe.config
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\bin\Debug\BingSpeechTest1.exe
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\bin\Debug\BingSpeechTest1.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\bin\Debug\SpeechClient.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\BingSpeechTest1.csprojAssemblyReference.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\MainWindow.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\App.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\BingSpeechTest1_MarkupCompile.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\BingSpeechTest1_MarkupCompile.lref
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\MainWindow.baml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\BingSpeechTest1.g.resources
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\BingSpeechTest1.Properties.Resources.resources
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\BingSpeechTest1.csproj.GenerateResource.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\BingSpeechTest1.csproj.CoreCompileInputs.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\BingSpeechTest1.csproj.CopyComplete
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\BingSpeechTest1.exe
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Working api Reaserch\Speech Recognition\BingSpeechTest1\obj\Debug\BingSpeechTest1.pdb

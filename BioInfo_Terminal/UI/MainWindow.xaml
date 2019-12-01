@@ -1,0 +1,114 @@
+﻿<Window x:Class="BioInfo_Terminal.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BioInfo_Terminal" Height="732.023" Width="500
+        "
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ui="clr-namespace:BioInfo_Terminal.UI"
+        mc:Ignorable="d" d:DesignWidth="480"
+        FontFamily="Verdana"
+        FontSize="12"
+        Foreground="White" Background="Black" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded" Icon="pack://siteoforigin:,,,/Resources/brain_icon.ico" Closing="Window_Closing">
+
+    <Grid Margin="12,0,12,0" VerticalAlignment="Stretch">
+        <Grid ui:GridUtils.RowDefinitions=",Auto">
+
+            <ScrollViewer x:Name="ConversationScrollViewer" VerticalScrollBarVisibility="Hidden" Margin="0,26,0,0">
+                <StackPanel Orientation="Vertical"
+                            x:Name="ConversationContentContainer"
+                            VerticalAlignment="Top">
+                    <ui:ConversationView x:Name="ConversationView" />
+                </StackPanel>
+            </ScrollViewer>
+
+            <Grid Grid.Row="1"
+                  ui:GridUtils.RowDefinitions=",,"
+                  Margin="0,10,0,0">
+                <Grid.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="0" />
+                        <GradientStop Color="White" Offset="1" />
+                    </LinearGradientBrush>
+                </Grid.Background>
+                <Rectangle Fill="Azure" Margin="71,18,6,21" />
+                <TextBox Text=""
+                         TextWrapping="Wrap"
+                         AcceptsReturn="True"
+                         Padding="0"
+                         Height="40"
+                         BorderThickness="0"
+                         x:Name="tbTextInput" RenderTransformOrigin="0.5,1.588"
+                         GotFocus="TextInput_GotFocus"
+                         LostFocus="TextInput_LostFocus"
+                         PreviewKeyDown="TextInput_PreviewKeyDown" Background="#FF2B67AE" Margin="71,16,6,0"
+                         VerticalAlignment="Top" />
+                <Path Data="m 0,0 l 16,0 l 0,16 l -16,-16"
+                      Fill="#FF2B67AE"
+                      Margin="0,52.864,6.71,5.136"
+                      HorizontalAlignment="Right" />
+                <Button x:Name="BtnAudio" Content="" HorizontalAlignment="Left" Margin="4,12,0,0"
+                        VerticalAlignment="Top" Width="56" Height="48" BorderBrush="Black" Click="btnAudio_Click">
+                    <Button.Background>
+                        <ImageBrush ImageSource="/BioInfo_Terminal;component/Resources/speaker-2488096_960_720.png" />
+                    </Button.Background>
+                </Button>
+            </Grid>
+        </Grid>
+        <Menu x:Name="MnuFile" Height="23" VerticalAlignment="Top" Background="Black">
+            <MenuItem x:Name="MiFile" Header="File" Height="26" Width="56" Background="#FF292626"
+                      Foreground="#FF8AEEE0">
+                <ToolBar x:Name="TbLoad" Foreground="#FF1B1B1B">
+                    <MenuItem x:Name="MiLoad" Header="Load" Height="22" VerticalAlignment="Top" Click="MiLoad_Click" />
+                </ToolBar>
+                <ToolBar x:Name="TbSave" Foreground="#FF1B1B1B">
+                    <MenuItem x:Name="MiSave" Header="Save" Click="MiSave_Click" />
+                </ToolBar>
+                <ToolBar x:Name="TbAdd" Foreground="#FF1B1B1B">
+                    <MenuItem x:Name="MiAdd" Header="Add" Click="MiAdd_Click" />
+                </ToolBar>
+            </MenuItem>
+            <MenuItem x:Name="MiOptions" Header="Options" Height="26" Width="56" Background="#FF292626"
+                      Foreground="#FF8AEEE0">
+                <ToolBar x:Name="TbLoad1" Foreground="#FF1B1B1B" Width="160">
+                    <MenuItem x:Name="MiUpdate" Header="Update" Height="22" VerticalAlignment="Top"
+                              Click="MiUpdate_Click" />
+                </ToolBar>
+                <ToolBar x:Name="TbSave1" Foreground="#FF1B1B1B">
+                    <MenuItem x:Name="MiFeedback" Header="Feedback" Click="MiFeedback_Click" Width="138" />
+                </ToolBar>
+                <ToolBar x:Name="TbSave2" Foreground="#FF1B1B1B">
+                    <MenuItem x:Name="MiDictateEmail" Header="Dictation" Click="MiDictateEmail_Click" Width="140"
+                              RenderTransformOrigin="0.5,0.5">
+                        <MenuItem.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform />
+                                <SkewTransform />
+                                <RotateTransform Angle="0.689" />
+                                <TranslateTransform />
+                            </TransformGroup>
+                        </MenuItem.RenderTransform>
+                    </MenuItem>
+                </ToolBar>
+                <ToolBar x:Name="TbSave3" Foreground="#FF1B1B1B">
+                    <MenuItem x:Name="MiMute" Header="Mute" Click="MiMute_Click" Width="140"
+                              RenderTransformOrigin="0.5,0.5">
+                        <MenuItem.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform />
+                                <SkewTransform />
+                                <RotateTransform Angle="0.689" />
+                                <TranslateTransform />
+                            </TransformGroup>
+                        </MenuItem.RenderTransform>
+                    </MenuItem>
+                </ToolBar>
+            </MenuItem>
+            <MenuItem x:Name="MiExit" Header="Exit" Height="26" Width="56" Background="#FF292626"
+                      Foreground="#FF8AEEE0" Click="MiExit_Click" RenderTransformOrigin="1.504,0.548" />
+        </Menu>
+
+
+    </Grid>
+</Window>

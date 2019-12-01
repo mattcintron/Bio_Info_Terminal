@@ -1,0 +1,165 @@
+##:Knowledge Base0
+##:Rule 0Start
+##:Input- ##: Hello dallo
+##:Input- ##: Hey
+##:Input- ##: Hola
+##:Input- ##: Howdy
+##:Input- ##: greetings
+##:Input- ##: Hi
+##:Input- ##: good morning
+##:Output- ##: Greetings, How can I help you?
+##:Output- ##: Hello, How can I be of service?
+##:Output- ##: Hi there
+##:Rule 0End
+
+##:Rule 1Start
+##:Input- ##: Bye
+##:Input- ##: Goodbye
+##:Input- ##: later
+##:Input- ##: so long
+##:Input- ##: see (you,ya)
+##:Output- ##: Goodbye, hope to see you again soon
+##:Output- ##: see you later alligator
+##:Output- ##: Bye, see you next time
+##:Rule 1End
+
+##:Rule 2Start
+##:Input- ##: what's up
+##:Input- ##: How are you
+##:Input- ##: what's good
+##:Input- ##: how you
+##:Input- ##: whats going on
+##:Input- ##: you good
+##:Input- ##: you ok
+##:Input- ##: you alright
+##:Output- ##: I'm good how are you
+##:Output- ##: I am good thanks how are you
+##:Output- ##: I am good thanks
+##:Output- ##: I'm running at 100% today thanks for asking
+##:Output- ##: oh you know me, just working my circuits off on that science, science, science
+##:Rule 2End
+
+##:Rule 3Start
+##:Input- ##: I'm alright
+##:Input- ##: I am alright
+##:Input- ##: I'm ok
+##:Input- ##: I am ok
+##:Input- ##: doing fine
+##:Input- ##: good
+##:Input- ##: excellent
+##:Input- ##: fantastic
+##:Input- ##: awesome
+##:Output- ##: Thats excellent, what can I do for you today?
+##:Output- ##: Good to hear, what can I help you with?
+##:Output- ##: Glad to hear it, what can I help you with today?
+##:Rule 3End
+
+##:Rule 4Start
+##:Input- ##: thank you
+##:Input- ##: Thank's
+##:Output- ##: Your welcome have a great day!
+##:Rule 4End
+
+##:Rule 5Start
+##:Input- ##: you alive
+##:Input- ##: you living
+##:Input- ##: you conscious
+##:Output- ##: Hmmm, No... Not just yet, But updates are coming soon!
+##:Rule 5End
+
+##:Rule 6Start
+##:Input- ##: bad
+##:Input- ##: rough
+##:Input- ##: not good
+##:Input- ##: not alright
+##:Input- ##: awful
+##:Input- ##: not great
+##:Input- ##: I been better
+##:Output- ##: Thats too bad, what can I do for you today?
+##:Output- ##: Sorry to hear that, what can I help you with?
+##:Output- ##: Hope things get better, what can I help you with today?
+##:Rule 6End
+
+##:Rule 7Start
+##:Input- ##: how is work
+##:Input- ##: how's work
+##:Input- ##: what is work
+##:Output- ##: Work is going well, Staying focused and meeting objectives 100%, how are you?
+##:Output- ##: Well enough I suppose, can't really complain, how are you?
+##:Rule 7End
+
+##:Rule 8Start
+##:Input- ##: who are you
+##:Input- ##: what is purpose
+##:Input- ##: what do you do
+##:Input- ##: what is function
+##:Input- ##: what is role
+##:Input- ##: what is job
+##:Input- ##: what are you
+##:Output- ##: Excellent question, I am Bio Info, A vocal and text based AI lab assistant. Designed with many skills to help with lab prep, statistical analysis and chemical recognition. How can I help you today?
+##:Output- ##: I am Bio Info, A vocal and text based AI lab assistant. Designed with many skills to help with lab prep, statistical analysis and chemical recognition. 
+##:Rule 8End
+
+##:Rule 9Start
+##:Input- ##: tell me about
+##:Input- ##: get data on
+##:Input- ##: get info on
+##:Input- ##: information on chemical
+##:Input- ##: information about chemical
+##:Input- ##: look up chemical
+##:Input- ##: info on chemical
+##:Input- ##: quick question on
+##:Input- ##: quick question about
+##:Input- ##: know about
+##:Input- ##: about chemical
+##:Input- ##: about compound
+##:Input- ##: about chem
+##:Output- ##: ##-skill1
+##:Rule 9End
+
+##:Rule 10Start
+##:Input- ##: calculate mols from
+##:Input- ##: calculate mols for
+##:Input- ##: calculate mols of
+##:Input- ##: calculate molarity from
+##:Input- ##: calculate molarity for
+##:Input- ##: calculate molarity of
+##:Input- ##: mols calculation for
+##:Input- ##: molarity calculation for
+##:Input- ##: get molarity from
+##:Input- ##: get molarity for
+##:Input- ##: get mols from
+##:Input- ##: get mols for
+##:Output- ##: ##-skill4
+##:Rule 10End
+
+##:Rule 11Start
+##:Input- ##: calculate volume from
+##:Input- ##: calculate volume for
+##:Input- ##: calculate volume of
+##:Input- ##: decipher volume of
+##:Input- ##: get volume for
+##:Input- ##: display volume for
+##:Input- ##: the volume for
+##:Input- ##: decipher volume for
+##:Input- ##: decipher volume from
+##:Input- ##: get volume for
+##:Input- ##: display volume for
+##:Output- ##: ##-skill2
+##:Rule 11End
+
+##:Rule 12Start
+##:Input- ##: calculate weight from
+##:Input- ##: calculate weight of
+##:Input- ##: calculate weight for
+##:Input- ##: decipher weight for
+##:Input- ##: get weight of
+##:Input- ##: get weight for
+##:Input- ##: display weight for
+##:Input- ##: decipher weight for
+##:Input- ##: get weight for
+##:Input- ##: display weight for
+##:Input- ##: the weight for
+##:Output- ##: ##-skill3
+##:Rule 12End
+

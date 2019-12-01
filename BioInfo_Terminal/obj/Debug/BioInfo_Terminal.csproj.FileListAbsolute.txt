@@ -1,0 +1,112 @@
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\Hunspellx64.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\Hunspellx86.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\Resources\en_GB.aff
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\Resources\en_GB.dic
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\Resources\en_US.aff
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\Resources\en_US.dic
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\Resources\brain_icon.ico
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\BioInfo_Terminal.exe.config
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\BioInfo_Terminal.exe.manifest
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\BioInfo_Terminal.application
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\BioInfo_Terminal.exe
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\BioInfo_Terminal.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\log4net.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\NAudio.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\NHunspell.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\SpeechClient.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\SpeechRecognition.exe
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\System.Interactive.Async.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\UnitsNet.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\Verbot4Library.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\SpeechRecognition.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\SpeechRecognition.exe.config
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\Verbot4Library.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\log4net.xml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\NAudio.xml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\NHunspell.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\System.Interactive.Async.xml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\bin\Debug\UnitsNet.xml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.csprojAssemblyReference.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.csproj.ResolveComReference.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\UI\DictationEmail.baml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\UI\Feedback.baml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\UI\Update.baml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\UI\ConversationView.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\UI\DictationEmail.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\UI\MainWindow.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\UI\Feedback.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\UI\Update.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\App.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal_MarkupCompile.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal_MarkupCompile.lref
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\UI\ConversationView.baml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\UI\MainWindow.baml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.g.resources
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.Properties.Resources.resources
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.csproj.GenerateResource.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.csproj.CoreCompileInputs.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.TrustInfo.xml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.exe.manifest
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.application
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.csproj.CopyComplete
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.exe
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.pdb
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\Hunspellx64.dll
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\Hunspellx86.dll
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\Resources\en_GB.aff
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\Resources\en_GB.dic
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\Resources\en_US.aff
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\Resources\en_US.dic
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\Resources\brain_icon.ico
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\BioInfo_Terminal.exe.config
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\BioInfo_Terminal.exe.manifest
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\BioInfo_Terminal.application
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\BioInfo_Terminal.exe
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\BioInfo_Terminal.pdb
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\log4net.dll
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\NAudio.dll
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\NHunspell.dll
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\SpeechClient.dll
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\SpeechRecognition.exe
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\System.Interactive.Async.dll
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\UnitsNet.dll
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\Verbot4Library.dll
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\SpeechRecognition.pdb
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\SpeechRecognition.exe.config
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\Verbot4Library.pdb
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\log4net.xml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\NAudio.xml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\NHunspell.pdb
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\System.Interactive.Async.xml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\bin\Debug\UnitsNet.xml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.csprojAssemblyReference.cache
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.csproj.ResolveComReference.cache
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\UI\DictationEmail.baml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\UI\Feedback.baml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\UI\Update.baml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\UI\ConversationView.g.cs
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\UI\DictationEmail.g.cs
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\UI\MainWindow.g.cs
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\UI\Feedback.g.cs
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\UI\Update.g.cs
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\App.g.cs
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal_MarkupCompile.cache
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal_MarkupCompile.lref
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\UI\ConversationView.baml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\UI\MainWindow.baml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.g.resources
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.Properties.Resources.resources
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.csproj.GenerateResource.cache
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.csproj.CoreCompileInputs.cache
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.TrustInfo.xml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.exe.manifest
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.application
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.csproj.CopyComplete
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.exe
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\BioInfo_Terminal\obj\Debug\BioInfo_Terminal.pdb

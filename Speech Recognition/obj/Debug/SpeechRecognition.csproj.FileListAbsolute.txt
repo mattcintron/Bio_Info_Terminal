@@ -1,0 +1,32 @@
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\bin\Debug\SpeechRecognition.exe.config
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\bin\Debug\SpeechRecognition.exe
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\bin\Debug\SpeechClient.dll
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\SpeechRecognition.csprojAssemblyReference.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\MainWindow.baml
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\MainWindow.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\App.g.cs
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\SpeechRecognition_MarkupCompile.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\SpeechRecognition.g.resources
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\SpeechRecognition.csproj.CopyComplete
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\SpeechRecognition.exe
+C:\Users\cintronm\Desktop\Alexa API Reaserch\Bio Info Terminal - Reaserch\Bio Info Terminal\Speech Recognition\obj\Debug\SpeechRecognition.pdb
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\bin\Debug\SpeechRecognition.exe.config
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\bin\Debug\SpeechRecognition.exe
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\bin\Debug\SpeechClient.dll
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\SpeechRecognition.csprojAssemblyReference.cache
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\MainWindow.baml
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\MainWindow.g.cs
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\App.g.cs
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\SpeechRecognition_MarkupCompile.cache
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\SpeechRecognition.g.resources
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.cache
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\SpeechRecognition.csproj.CopyComplete
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\SpeechRecognition.exe
+C:\Users\matt\Desktop\bio info builds\bio info builds\Bio Info Terminal-on\Speech Recognition\obj\Debug\SpeechRecognition.pdb
